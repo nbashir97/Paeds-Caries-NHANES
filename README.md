@@ -17,6 +17,6 @@ This Stata code documents the analyses carried out in order to estimate the prev
 **Conclusions:** The prevalence of dental caries has decreased over the past 10 years, but there is still inequality in disease distribution.
 
 ### Analysis
-The Stata do-file to execute the analyses are separated into the script used for NHANES 2011-12 / NHANES 2013-14 and the script used for NHANES 2015-16 / NHANES 2017-20. The 2011-14 NHANES studies are coded slightly differently to the 2015-20 NHANES studies, so different scripts are needed to analyse each.
+The Stata do-file to execute the analyses are separated into the script used for NHANES 2011-12 / NHANES 2013-14 and the script used for NHANES 2015-16 / NHANES 2017-20. The 2011-14 NHANES studies are coded slightly differently to the 2015-20 NHANES studies, so different scripts are needed to analyse each. Note that I did not create a single for-loop to simultaneously execute all of the analyses, as I wanted to view the outputs of each analysis, one at a time.
 
 **Stata v16.0**
